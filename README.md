@@ -62,7 +62,7 @@ Pipeline
 
 👉 Key Insight:
 
-- Mid-price segments (₹240–480) drive maximum revenue
+- Mid-price segments ($ 240–480) drive maximum revenue
 
 - $60 M working capital can be unlocked by improving collections
 
